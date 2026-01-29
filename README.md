@@ -32,9 +32,9 @@ I love clean code, modern tech, and creating seamless user experiences.
 **Frameworks**  
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat-square&logo=codeIgniter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat-square&logo=codeIgniter&logoColor=white)
 
 **Database & Cloud**  
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white)
@@ -51,18 +51,18 @@ I love clean code, modern tech, and creating seamless user experiences.
 
 ### 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadNasrullohh&theme=tokyonight)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadNasrullohh&theme=tokyonight" alt="Profile Details" />
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohammadNasrullohh&show_icons=true&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohammadNasrullohh&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=MohammadNasrullohh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadNasrullohh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="44%" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohammadNasrullohh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadNasrullohh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ---
 
 ### 🎯 Current Focus
 
-🚀 Building web & mobile apps with **React**, **Laravel**, and **Flutter**  
+🚀 Building web & mobile apps with **React**, **Laravel**, **CodeIgniter**, and **Flutter**  
 🎮 Managing **Minecraft servers** and developing custom plugins  
 ☁️ Exploring **cloud deployment** and **DevOps** best practices
 

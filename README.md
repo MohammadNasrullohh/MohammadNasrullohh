@@ -51,12 +51,12 @@ I love clean code, modern tech, and creating seamless user experiences.
 
 ### 📊 GitHub Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadNasrullohh&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadNasrullohh&theme=tokyonight)
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohammadNasrullohh&show_icons=true&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohammadNasrullohh&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohammadNasrullohh&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohammadNasrullohh&layout=compact&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohammadNasrullohh&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohammadNasrullohh&theme=tokyonight&hide_border=true)
 
 ---
 

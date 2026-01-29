@@ -51,12 +51,14 @@ I love clean code, modern tech, and creating seamless user experiences.
 
 ### 📊 GitHub Stats
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohammadNasrullohh&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadNasrullohh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadNasrullohh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MohammadNasrullohh&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MohammadNasrullohh&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohammadNasrullohh&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MohammadNasrullohh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
